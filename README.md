@@ -1,4 +1,4 @@
-# Portfolio
+# Data projects portfolio
 This repository contains data science(analytics) projects. Some of them are university projects, some I did for self learning and hobby. The projects are written in Python (mostly Jupyther Notebook)
 ___
 <ul>
