@@ -17,7 +17,13 @@ ___
  <li> 
     <a href="https://github.com/marynakrv/Portfolio/tree/main/K-Neighbors%20prediction">
       <strong>
-        K-Neighbors prediction
+        K-Neighbors Prediction
       </strong></a> 
  </li> 
+  <li> 
+    <a href="https://github.com/marynakrv/Portfolio/tree/main/Predictio%20of%20insurance%20costs">
+      <strong>
+        Medical Cost Prediction
+      </strong></a> 
+ </li>
 </ul>
